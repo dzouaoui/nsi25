@@ -3,7 +3,7 @@
 # Spécialité NSI.
 Informations utiles aux élèves du lycée et à leur famille...
 
-* Dans **informations_diverses** : Toutes les informations générales sur la spécialité NSI au lycée Jean Rostand. La lecture des documents s'y trouvant est recommandée.
+* Dans **informations_diverses** : Toutes les informations générales sur la spécialité NSI au lycée. La lecture des documents s'y trouvant est recommandée.
 
 
 * Dans **outils_et_environnement_informatiques** : Toutes les ressources, tutos et aides techniques pour utiliser tel ou tel logiciel utilisé en NSI
