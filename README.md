@@ -1,16 +1,16 @@
-# nsi25
-# Cours NSI Première 2024-2025
-# Spécialité NSI.
+# nsi23
+# Cours NSI Première 2022-2023
+# Spécialité NSI au lycée Jean Rostand
 Informations utiles aux élèves du lycée et à leur famille...
 
-* Dans **informations_diverses** : Toutes les informations générales sur la spécialité NSI au lycée. La lecture des documents s'y trouvant est recommandée.
+* Dans **informations_diverses** : Toutes les informations générales sur la spécialité NSI au lycée Jean Rostand. La lecture des documents s'y trouvant est recommandée.
 
 
 * Dans **outils_et_environnement_informatiques** : Toutes les ressources, tutos et aides techniques pour utiliser tel ou tel logiciel utilisé en NSI
 
 * Dans **Programmes_de_la_specialite_NSI_publiés_au_BO** : Le détail officiel du programme de NSI en première et en terminale
 
-## Programme de la spécialité en première
+[!] Programme de la spécialité en première
 
 * Le programme officiel de la spécialité est divisé en 8 parties appelées blocs :
   * bloc 0 - historique (non évalué au baccalauréat)
